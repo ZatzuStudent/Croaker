@@ -22,11 +22,6 @@ public class Swallow : MonoBehaviour
            
         }
 
-        if (grasshopper == null)
-        {
-            Destroy(gameObject);
-        }
-
     }
 }
 
